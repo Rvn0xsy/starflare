@@ -71,9 +71,6 @@
       >
         <SvgIcon icon="github-fill" class="button__icon" />Sign in with GitHub
       </button>
-
-      <img v-if="appTheme==='light'" src="../assets/img/light.png" class="demo-img" alt="github-logo" />
-      <img v-else src="../assets/img/dark.png" class="demo-img" alt="github-logo" />
     </div>
   </div>
 </template>
